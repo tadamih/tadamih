@@ -19,6 +19,8 @@ HTML / CSS / JavaScript
 
 📬 Контакты
 
+🌐 Личный сайт: tarasenko.danil.me
+
 📧 tadamiih@mail.ru
 
 📱 +7 902 678-06-60
