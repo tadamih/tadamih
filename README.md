@@ -18,5 +18,7 @@ HTML / CSS / JavaScript
 📬 Контакты
 
 📧 tadamiih@mail.ru
+
 📱 +7 902 678-06-60
+
 💬 @Brionnnn
